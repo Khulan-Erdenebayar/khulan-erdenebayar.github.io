@@ -31,17 +31,6 @@ I have a strong interest in **data analysis, machine learning, and AI**, and I a
 🔗 [GitHub Repository](https://github.com/Khulan-Erdenebayar/fraud-detection)  
 A machine learning model designed to **detect fraudulent transactions**, using feature engineering and classification models.  
 
-### 🔹 **Music Source Separation**  
-🔗 [GitHub Repository](https://github.com/facebookresearch/demucs)  
-Exploring deep learning techniques for **separating vocals and instruments in audio tracks**.  
-
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khulan-Erdenebayar&show_icons=true&theme=slate)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khulan-Erdenebayar&layout=compact&theme=slate)  
 
 ---
 
