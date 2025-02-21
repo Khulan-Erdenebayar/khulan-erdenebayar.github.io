@@ -6,38 +6,49 @@ description: AI & IT Student | Aspiring Data Scientist
 # 👋 Hi, I'm Khulan Erdenebayar  
 
 I am a **student at AGH University of Science and Technology**, majoring in **Artificial Intelligence & IT**.  
-I have a strong interest in **data analysis, machine learning, and AI** and continuously improve my skills every day.  
-
----
+I have a strong interest in **data analysis, machine learning, and AI**, and I am continuously improving my skills.  
 
 ## 🛠️ Skills & Technologies  
 
-- **Programming Languages:** Python, SQL, C++  
-- **Data Science & AI:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch  
-- **Web Development:** Basic experience in **backend & frontend**  
-- **Tools:** Git, Docker, Linux  
+✅ **Programming Languages:**  
+- Python 🐍, SQL 🗄️, C++ 💻  
+
+✅ **Machine Learning & AI:**  
+- TensorFlow, PyTorch, Scikit-Learn  
+
+✅ **Web Development:**  
+- Flask, Django (Backend)  
+- HTML, CSS, JavaScript (Frontend)  
+
+✅ **Tools & DevOps:**  
+- Git, Docker, Linux  
 
 ---
 
-## 💻 Projects & Experience  
+## 💻 Featured Projects  
 
-I have worked on several **backend, frontend, and data analysis projects** before. Currently, I am focusing on **data analytics and machine learning**, aiming to develop practical skills in **fraud detection and predictive modeling**.  
+### 🔹 **Fraud Detection System**  
+🔗 [GitHub Repository](https://github.com/Khulan-Erdenebayar/fraud-detection)  
+A machine learning model designed to **detect fraudulent transactions**, using feature engineering and classification models.  
 
-🚀 My GitHub: [Khulan-Erdenebayar](https://github.com/Khulan-Erdenebayar)  
+### 🔹 **Music Source Separation**  
+🔗 [GitHub Repository](https://github.com/facebookresearch/demucs)  
+Exploring deep learning techniques for **separating vocals and instruments in audio tracks**.  
 
 ---
 
-## 🎯 Future Goals  
+## 📈 GitHub Stats  
 
-My goal is to become a **data scientist**, specializing in **machine learning and artificial intelligence**. I am eager to **work on real-world problems, contribute to open-source projects, and gain industry experience**.  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khulan-Erdenebayar&show_icons=true&theme=slate)  
 
-I am currently seeking **internship opportunities** in **data science and AI**.  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khulan-Erdenebayar&layout=compact&theme=slate)  
 
 ---
 
 ## 📫 Contact Me  
 
-- 🔗 **LinkedIn:** [Khulan Erdenebayar](https://www.linkedin.com/in/khulan-erdenebayar-367332309/)  
-- 💬 **GitHub:** [Khulan-Erdenebayar](https://github.com/Khulan-Erdenebayar)  
+- 💼 **LinkedIn:** [Khulan Erdenebayar](https://www.linkedin.com/in/khulan-erdenebayar-367332309/)  
+- 🌐 **GitHub:** [Khulan-Erdenebayar](https://github.com/Khulan-Erdenebayar)  
+- 💬 **Discord:** Khulan#1447  
 
-Feel free to connect with me! 🚀
+🚀 *Looking for Data Science Internship Opportunities!*
